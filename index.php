@@ -9,5 +9,6 @@
     <?php
       include "component/header.php";
     ?>
+    <img src="img/logo.png">
   </body>
 </html>
