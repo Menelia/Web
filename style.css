@@ -1,0 +1,44 @@
+/*
+ Header
+*/
+header {
+  position: absolute;
+  width: 100%;
+  height: 3.0em;
+  left: 0px;
+  top: 0px;
+  background-color: #3D3B3B;
+}
+
+/*
+ Footer
+*/
+
+footer {
+  position: absolute;
+  width: 100%;
+  left: 0px;
+  background: rgba(61, 59, 59, 0.8);
+}
+
+/*
+ Global Css
+*/
+body {
+  background: rgba(40, 41, 48, 0.59);
+}
+
+.mini-logo {
+  position: absolute;
+  width: 3.0em;
+  height: 3.0em;
+  left: 1.0em;
+}
+
+.logo {
+  position: absolute;
+  width: 286.12px;
+  height: 304px;
+  left: 453px;
+  top: 198px;
+}
